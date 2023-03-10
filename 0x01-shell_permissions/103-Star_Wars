@@ -1,2 +1,2 @@
-IV episode in the terminal
+#!/bin/bash
 telnet towel.blinkenlights.nl
