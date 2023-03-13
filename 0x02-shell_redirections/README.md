@@ -1,1 +1,1 @@
-Shell navigations
+Shell redirections
